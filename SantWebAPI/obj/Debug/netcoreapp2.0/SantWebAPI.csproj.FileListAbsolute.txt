@@ -1,0 +1,10 @@
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/obj/Debug/netcoreapp2.0/SantWebAPI.csproj.CoreCompileInputs.cache
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/obj/Debug/netcoreapp2.0/SantWebAPI.AssemblyInfoInputs.cache
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/obj/Debug/netcoreapp2.0/SantWebAPI.AssemblyInfo.cs
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/bin/Debug/netcoreapp2.0/SantWebAPI.deps.json
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/bin/Debug/netcoreapp2.0/SantWebAPI.runtimeconfig.json
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/bin/Debug/netcoreapp2.0/SantWebAPI.runtimeconfig.dev.json
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/bin/Debug/netcoreapp2.0/SantWebAPI.dll
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/bin/Debug/netcoreapp2.0/SantWebAPI.pdb
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/obj/Debug/netcoreapp2.0/SantWebAPI.dll
+/Users/abigailtravers/gitDir/SantWebAPI/SantWebAPI/obj/Debug/netcoreapp2.0/SantWebAPI.pdb

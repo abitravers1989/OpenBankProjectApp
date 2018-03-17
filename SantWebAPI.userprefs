@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1B82D486-1BA9-40A4-9E67-7FBE945BE091}|Default">
+  <MonoDevelop.Ide.ItemProperties.SantWebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SantWebAPI/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="SantWebAPI/CustomerJSONData.json" Line="2" Column="1" />
+      <File FileName="SantWebAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="SantWebAPI/Startup.cs" Line="1" Column="1" />
+      <File FileName="SantWebAPI/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="SantWebAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="SantWebAPI/Controllers/AccountController.cs" Line="11" Column="17" />
+      <File FileName="SantWebAPI/Customers/ICustomer.cs" Line="10" Column="1" />
+      <File FileName="SantWebAPI/Customers/Customer.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
